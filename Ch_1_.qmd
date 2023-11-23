@@ -1,0 +1,13 @@
+---
+title: "Chapter 1 through ..."
+format: html
+jupyter: ""
+---
+
+# Ch1 - Can be ignored. Goes through the book and the repo structure, etc.
+* Sites for reference:
+  * [StatLearning](www.statlearning.com)
+  * 
+---
+
+# Ch2
